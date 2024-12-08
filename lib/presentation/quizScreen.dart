@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:excel_acedmy/presentation%20/constants/assets_path.dart';
-import 'package:excel_acedmy/presentation%20/finalScoreScreen.dart';
+import 'package:excel_acedmy/presentation/constants/assets_path.dart';
+import 'package:excel_acedmy/presentation/finalScoreScreen.dart';
 import 'package:flutter/material.dart';
 
 class QuizScreen extends StatefulWidget {

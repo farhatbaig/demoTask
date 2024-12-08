@@ -1,4 +1,4 @@
-import 'package:excel_acedmy/presentation%20/versusScreen.dart';
+import 'package:excel_acedmy/presentation/versusScreen.dart';
 import 'package:flutter/material.dart';
 
 class CardSelectionScreen extends StatefulWidget {

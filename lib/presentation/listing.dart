@@ -1,5 +1,5 @@
-import 'package:excel_acedmy/presentation%20/cardsSelectionScreen.dart';
-import 'package:excel_acedmy/presentation%20/constants/assets_path.dart';
+import 'package:excel_acedmy/presentation/cardsSelectionScreen.dart';
+import 'package:excel_acedmy/presentation/constants/assets_path.dart';
 import 'package:flutter/material.dart';
 
 class CardScreen extends StatefulWidget {
