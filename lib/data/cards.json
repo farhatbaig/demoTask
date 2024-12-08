@@ -1,0 +1,18 @@
+{ 
+    "data":[ 
+    {
+      "title": "Play with Zaraline (bot)",
+      "description": "Quiz with a bot real-time and get scored to beat the highest scores",
+      "availability": "This is not available at the moment as we are currently fixing it. We will be back shortly.",
+      "image": "assets/bot.png",
+      "available": false
+    },
+    {
+      "title": "Play with someone on the app",
+      "description": "Quiz with someone real-time and get scored to beat the highest scores",
+      "availability": "",
+      "image": "assets/person.png",
+      "available": true
+    }]
+}
+  
