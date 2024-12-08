@@ -55,7 +55,7 @@ class _CardSelectionScreenState extends State<CardSelectionScreen> {
     return Scaffold(
       backgroundColor: Colors.black,
       body: Center(
-        child: Container(
+        child: SizedBox(
           width: 500,
           child: SafeArea(
             child: Column(

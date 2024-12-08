@@ -1,18 +1,57 @@
-# excel_acedmy
+# Demo App
 
-A new Flutter project.
+This is a Demo App for evaluation purpose
 
-## Getting Started
+## CI/CD Status
 
-This project is a starting point for a Flutter application.
+Continuous Integration and Deployment (CI/CD) are set up to below link ensure quality and streamline deployment.
+https://farhatbaig.github.io/demoTask/
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# demoTask
-# demoTask
+## Project Setup and Running Instructions
+
+1. **Install Dependencies**:
+    ```bash
+    flutter pub get
+    ```
+
+2. **Run the App**:
+    ```bash
+    flutter run
+    ```
+
+3. **Run Tests**:
+    ```bash
+    flutter test
+    ```
+
+### Running the App
+
+To run the app on an iPhone emulator or an Android device, follow these steps:
+
+#### iPhone Emulator
+1. Ensure Xcode is installed and set up on your Mac.
+2. Open an iOS simulator:
+    ```bash
+    open -a Simulator
+    ```
+    ```bash
+    flutter run -d ios
+    ```
+
+#### Android Real Device
+1. Enable Developer Options and USB Debugging on your Android device.
+2. Connect the device to your computer via USB.
+3. Verify the device connection:
+
+    ```bash
+    flutter devices
+    ```
+    ```bash
+    flutter run -d <device-id>
+    ```
+
+
+
+
